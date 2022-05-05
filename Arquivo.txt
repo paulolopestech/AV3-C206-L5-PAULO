@@ -1,0 +1,24 @@
+Carrinho
+Paulo
+Merc
+22
+Carrinho
+Lopes
+Octane
+90
+Carrinho
+Han Solo
+Breakout
+110
+Carrinho
+Luke
+Octane
+105
+Carrinho
+Tony Stark
+Merc
+99
+Carrinho
+Hulk
+Breakout
+55
